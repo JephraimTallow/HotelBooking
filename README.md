@@ -1,8 +1,7 @@
 ##Hotel Booking
 
 Running the tests:
-
-Via a terminal where Maven is setup: mvn test
+Clone the repo. Then run via Maven: mvn test
 
 ##Further improvements:
 Add further factory class logic to include Mobile, other browsers, Docker implementation etc.
